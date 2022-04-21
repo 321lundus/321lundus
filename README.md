@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @321lundus
+- 👋 Hi, I’m Jun Wencislaus
 - 👀 I’m interested in BDA, DL, ML and DBMS
 - 📫 email: junwencislaus@gmail.com
 <!--- - 🌱 I’m currently learning 
